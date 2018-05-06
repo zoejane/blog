@@ -6,8 +6,11 @@ enableEmoji = true
 
 # language support # en / zh-cn / other...
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 [Languages.en]
   languageCode = "en"
+[Languages.zh]
+  languageCOde = "zh-cn"
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 3                                              # 首页每页显示的文章数
@@ -29,21 +32,34 @@ copyright = "life is wonderful"            # default: author.name ↓        # �
   weight = 10
   identifier = "home"
   url = "/"
+[[languages.zh.menu.main]]
+  name = "主页"
+  weight = 10
+  identifier = "home"
+  url = "/"
 [[menu.main]]
   name = "Archives"
   weight = 20
   identifier = "archives"
-  url = "/post/"
+  url = "/en/post/"
 [[menu.main]]
   name = "Tags"
   weight = 30
   identifier = "tags"
-  url = "/tags/"
+  url = "/en/tags/"
 [[menu.main]]
   name = "Categories"
   weight = 40
   identifier = "categories"
-  url = "/categories/"
+  url = "/en/categories/"
+[[menu.main]]
+  name = "简体中文版"
+  url = "/zh/"
+  weight = 80
+[[menu.main]]
+  name = "归档"
+  weight = 90
+  url = "/zh/post/"
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
