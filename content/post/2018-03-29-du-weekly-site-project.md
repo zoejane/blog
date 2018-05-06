@@ -1,7 +1,7 @@
 ---
 title: "DU Weekly 怼周刊小站 项目 - 自述原案"
 date: 2018-03-29T11:23:18+08:00
-categories: ["Tech"]
+categories: ["Tech", "Site"]
 ---
 
 **Link**

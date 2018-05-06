@@ -1,8 +1,12 @@
 ---
 title: "从 0 开始体验 AI 作曲 (Google Magenta)"
 date: 2017-06-03T10:45:48+08:00
-categories: ["Music"]
+categories: ["Music", "Tutorial"]
 ---
+
+**Link**
+
+- [[DUW] 从 0 开始体验 AI 作曲 (Google Magenta) · Issue #133 · DebugUself/du4proto](https://github.com/DebugUself/du4proto/issues/133)
 
 ## 作品 
 
