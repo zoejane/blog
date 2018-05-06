@@ -1,7 +1,7 @@
 ---
-title: "Hello World"
+title: "你好, 世界!"
 date: 2018-04-22T10:45:48+08:00
 ---
 
-Hello world!
+你好, 世界!
 
