@@ -1,5 +1,5 @@
 ---
-title:  "Jekyll + GitHub，开启属于你的Blog之旅"
+title:  "Jekyll + GitHub，开启属于你的 Blog 之旅"
 date: 2016-10-10T11:23:18+08:00
 categories: ["Tech"]
 ---

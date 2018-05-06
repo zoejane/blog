@@ -1,5 +1,5 @@
 ---
-title: 职业转换思考 思维导图
+title: 思维导图 - 职业转换思考 
 date: 2016-02-11T11:23:18+08:00
 categories: ["Writing"]
 ---

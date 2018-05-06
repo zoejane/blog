@@ -1,5 +1,5 @@
 ---
-title:  "写给 Zoe —— 面对同侪压力"
+title:  "写给 Zoe - 面对同侪压力"
 date: 2016-03-16T11:23:18+08:00
 categories: ["Writing"]
 ---
