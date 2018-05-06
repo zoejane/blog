@@ -1,6 +1,7 @@
 ---
 title: "Learn to Say Goodbye to Magical Should Thinking"
 date: 2018-04-22T11:23:18+08:00
+categories: ["Tech"]
 ---
 
 > if you constantly tell yourself you should be better, or should be doing more, or should magically know how to do things without practice, then you’re going about it all wrong. I work crazy hard at the things I want to be good at and I don’t expect to be an expert in them without a lot of work, and possibly never in my lifetime. I don’t tell myself I should be better at painting. I just paint, and then figure out how I can do better the next time. Too often though I see people who, despite not investing any time in learning to code, have this unrealistic idea that they should be better at it. They should just know how to code a small project from nothing. 

@@ -60,6 +60,10 @@ copyright = "life is wonderful"            # default: author.name ↓        # �
   name = "归档"
   weight = 90
   url = "/zh/post/"
+[[menu.main]]
+  name = "分类"
+  weight = 100
+  url = "/zh/categories/"
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda

@@ -1,6 +1,7 @@
 ---
 title: "从 0 开始体验 AI 作曲 (Google Magenta)"
 date: 2017-06-03T10:45:48+08:00
+categories: ["Music", "Tech"]
 ---
 
 ## 作品 
