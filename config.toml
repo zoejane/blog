@@ -43,9 +43,9 @@ copyright = "life is wonderful"            # default: author.name ↓        # �
   identifier = "categories"
   url = "/categories/"
 [[menu.main]]
-  name = "标签"
+  name = "关于"
   weight = 50
-  url = "/tags/"
+  url = "/about"
 [[menu.main]]
   name = "英文 Blog"
   url = "/en/"
@@ -67,9 +67,9 @@ copyright = "life is wonderful"            # default: author.name ↓        # �
   identifier = "categories"
   url = "/en/categories/"
 [[languages.en.menu.main]]
-  name = "Tags"
+  name = "About"
   weight = 50
-  url = "/en/tags/"
+  url = "/en/about"
 [[languages.en.menu.main]]
   name = "Chinese Blog"
   url = "/"
