@@ -55,7 +55,7 @@ copyright = "life is wonderful"            # default: author.name â†“        # é
   name = "Home"
   weight = 10
   identifier = "home"
-  url = "/"
+  url = "/en/"
 [[languages.en.menu.main]]
   name = "Archives"
   weight = 20
