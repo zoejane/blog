@@ -1,6 +1,7 @@
 ---
 title:  "A Tribute to Chester"
 date: 2017-07-23T10:45:48+08:00
+categories: ["Podcast"]
 ---
 
 ## Podcast
