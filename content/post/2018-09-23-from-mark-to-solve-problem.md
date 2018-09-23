@@ -74,4 +74,5 @@ categories: ["Learning"]
 
 ## Links
 
-- [4d [WIKI] 如何从无尽的收藏资料到开始解决问题 - Tips for 印象笔记](https://github.com/DebugUself/du4proto/issues/477)
+- Issue 讨论 - [4d [WIKI] 如何从无尽的收藏资料到开始解决问题 - 意见征集](https://github.com/DebugUself/du4proto/issues/477)
+- Wiki - [如何从无尽的收藏资料到开始解决问题 · DebugUself/du4proto Wiki](https://github.com/DebugUself/du4proto/wiki/How2UseResources)
